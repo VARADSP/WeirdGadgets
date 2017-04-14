@@ -1,0 +1,37 @@
+<center>
+<form name="form1" method="post" onSubmit="return check()" style="width:1280px;
+padding:10px 50px;
+border:2px solid gray;
+border-radius:10px;
+font-family:raleway;
+float:left;">
+<pre style="color:black;">Name:<input type="text" name="name" style="width:20%;
+height:40px;
+padding:5px;
+margin-bottom:25px;
+margin-top:5px;
+border:2px solid #ccc;
+color:#4f4f4f;
+font-size:16px;
+border-radius:5px
+"></pre><br><br>
+<pre style="color:black;">Email:<input type="text" name="email" style="width:20%;
+height:40px;
+padding:5px;
+margin-bottom:25px;
+margin-top:5px;
+border:2px solid #ccc;
+color:#4f4f4f;
+font-size:16px;
+border-radius:5px
+"></pre><br><br>
+<pre style="color:black;">Address:<input type="textarea" name="address" style="width:20%;
+height:40px;
+padding:5px;
+margin-bottom:25px;
+margin-top:5px;
+border:2px solid #ccc;
+color:#4f4f4f;
+font-size:16px;
+border-radius:5px
+"></pre><br><br>
